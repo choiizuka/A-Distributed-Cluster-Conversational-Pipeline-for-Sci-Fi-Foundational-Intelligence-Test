@@ -20,14 +20,18 @@ An advanced, multi-node conversational AI pipeline architected by CHOIIZUKA and 
 
 [User Prompt (Any Language)]
 │
+
 ▼ (External Translation API Layer)
 [Pure English Prompt]
 │
+
 ▼ (High-Speed Inference Core)
 [MotherAI Core: Distributed Matrix Calculations via 3D Parallelism]
 │
+
 ▼ (Pure English Response Generation)
 [External Translation API Layer]
 │
+
 ▼
 [Final User Output (Localized Language)]
