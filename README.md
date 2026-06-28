@@ -43,3 +43,30 @@ An advanced, multi-node conversational AI pipeline architected by CHOIIZUKA and 
 ▼
 
 [Final User Output (Localized Language)]
+
+---
+
+## Contact / Links
+
+- Web Site: https://choiizuka.com/
+- Web Media EN: https://choiizuka.wordpress.com/
+- GitHub: https://github.com/choiizuka?tab=repositories
+- Homepage: https://choiizuka.com/
+- CHOIIZUKAPEDIA: https://choiizuka.com/pedia/
+
+---
+
+## SNS
+
+- X (Choapp CEO): https://x.com/choappceo
+- X (CHOIIZUKA): https://x.com/choiizuka
+- X (CHOIIZUKAWORLD): https://x.com/CHOIIZUKAWORLD
+- Instagram (activity): https://www.instagram.com/choiizuka/
+- Instagram (photography): https://www.instagram.com/toshihide.choiizuka/
+- Threads: https://www.threads.com/toshihide.choiizuka/
+- YouTube (live coding / work log): https://youtube.com/@choiizuka/
+
+- Search "CHOIIZUKA" on the web.
+
+---
+(C) 2026 CHOIIZUKA.COM
