@@ -46,6 +46,12 @@ An advanced, multi-node conversational AI pipeline architected by CHOIIZUKA and 
 
 ---
 
+# Homepage
+
+- [【Truth-Science】We Built a Cluster Conversational AI Program Like the Mother AI in Anime and Manga! Can We Test It Somewhere? 🧑‍💻](https://choiizuka.com/trpress/2026/06/29/truth-science-cluster-mother-ai-in-anime-and-manga-can-we-test/)
+
+---
+
 ## Contact / Links
 
 - Web Site: https://choiizuka.com/
